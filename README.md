@@ -1,2 +1,2 @@
-# linear-regression-Project-Profit-Prediction-
-Linear Regression Alogorithm WITH  Project Profit Prediction
+# linear-regression--Project-Profit-Prediction
+ ML project with profect prediction
